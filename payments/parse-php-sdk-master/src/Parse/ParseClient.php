@@ -17,7 +17,7 @@ final class ParseClient
    * Constant for the API Server Host Address.
    * @ignore
    */
-  const HOST_NAME = 'https://api.parse.com';
+  const HOST_NAME = 'http://localhost:1337/parse';
 
   /**
    * @var - String for applicationId.

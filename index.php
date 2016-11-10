@@ -27,7 +27,7 @@
     <script src="//connect.facebook.net/en_US/sdk.js"></script>
 
     <!-- Parse -->
-    <script src="//www.parsecdn.com/js/parse-1.2.18.min.js"></script>
+    <script src="scripts/parse-1.2.18.min.js"></script>
     <script src="scripts/integration/persistence.js"></script>
 
     <!-- Init and Login -->
